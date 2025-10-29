@@ -14,11 +14,9 @@
 ```
 -------------------------
 💻 Soy egresada de Ingeniería en Computación e Informática.
-📚 Títilada en 2025.
+📚 Títulada en 2025.
 📝 Mi interés de último momento es aprender sobre Linux.
-🚩 Interesada en el desarrollo de aplicaciones Full Stack 
-💖 Me guntan los gatos y andar jugando videojuegos 👆🤓
-🎵 Amo escuchar humbe, cigarettes after sex y otros...
+🚩 Interesada en el desarrollo de aplicaciones Full Stack y TI
 ```
 <hr>
 
