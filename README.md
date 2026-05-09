@@ -1,98 +1,146 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>Hi, I'm Constanza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--  -->
+<div align="center">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+<!-- Banner animado con typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Constanza+%F0%9F%91%8B;Full+Stack+Developer;PHP+%7C+Laravel+%7C+Angular;Node.js+%7C+TypeScript+%7C+Spring+Boot;Always+building+something+new)](https://git.io/typing-svg)
 
-<img align="left" src="https://i.pinimg.com/564x/5e/ab/97/5eab97768f79c038514f9515d38abbb6.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
+# Constanza Tapia Orellana
+
+**Full Stack Developer · IT Professional · Chile**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ctapiam--dev.github.io-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://ctapiam-dev.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-constanza--tapia--orellana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/constanza-tapia-orellana)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cony.tapia.orellana@gmail.com)
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy **Ingeniería en Computación e Informática (UNAB, Viña del Mar)**, titulada en 2025, con enfoque en desarrollo Full Stack. Me apasiona construir aplicaciones completas, desde el backend hasta el interfaz, y estoy en búsqueda activa de mi primer rol profesional como desarrolladora.
+
+Actualmente estoy construyendo un **portfolio multi-stack** con proyectos reales que incluyen autenticación, exportación de reportes, WebSockets y Docker — para demostrar versatilidad técnica a equipos de desarrollo.
 
 ```
--------------------------
-💻 Soy egresada de Ingeniería en Computación e Informática.
-📚 Títulada en 2025.
-📝 Mi interés de último momento es aprender sobre Linux.
-🚩 Interesada en el desarrollo de aplicaciones Full Stack y TI
+🎓  Ingeniería en Computación e Informática — Universidad Andrés Bello (2020 - 2025)
+💼  DevOps en Vanda (Sep–Dic 2024) — Grafana, Prometheus, Linux.
+🌱  Aprendiendo: Spring Boot, Redis, arquitecturas con Docker.
+🔍  Buscando: Primer rol como Full Stack / Backend Developer / IT / Analista de datos / QA Engineer.
+📍  Disponible en: Región de Valparaíso y Región Metropolitana, hibrido y/o remoto.
 ```
-<hr>
 
+---
 
-## 🛠️ My Favorite Tools
+## 🛠️ Stack Tecnológico
 
-### 👨‍💻 Programming Languages
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🧰 Frameworks and Libraries
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-<p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-</p>
+---
 
-### 🗄️ Databases and Cloud Hosting
+## 🚀 Proyectos Destacados
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-</p>
+### 📦 Stock Inventory Management System
+> Sistema Full Stack con Spring Boot + PostgreSQL · En desarrollo
 
-### 💻 Software and Tools
+- JWT Auth con roles: `ADMIN`, `WAREHOUSE`, `SELLER`
+- Alertas de stock bajo en tiempo real con **WebSockets / STOMP**
+- Caché con **Redis** y documentación con **Swagger/OpenAPI**
+- Containerizado con **Docker**
+- [🔗 Ver repositorio](#)
 
-<p>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+---
 
+### 🎓 SelfTEAch — Proyecto de Título
+> Plataforma educativa inclusiva enfocada en autismo
 
+- Aplicación Full Stack orientada a la inclusión educativa
+- Desarrollo del sistema completo: diseño, backend, frontend y documentación
+- [🔗 Ver repositorio](#)
 
-## GitHub Stats
+---
 
+### 📡 VConnect — Reporte de Incidentes en Tiempo Real
+> Sistema colaborativo de reporte de incidentes urbanos
 
-|                                                                     Constanza Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Cony 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](![image](https://github.com/user-attachments/assets/99e63258-62e6-4100-b433-7aee04316867)
-) |
-| ![Cony github stats](![image](https://github.com/user-attachments/assets/5f4d2bc4-f3d3-4971-b3ce-3b28abe0b5a2)
-)              | 
-| ![Cony GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
+- Rol: **Coordinadora de Proyecto & Líder de Documentación**
+- Comunicación en tiempo real entre usuarios y administradores
+- [🔗 Ver repositorio](#)
 
+---
 
+### 🗄️ Cluster NoSQL
+> Proyecto académico de arquitectura de bases de datos distribuidas
 
+- Implementación y comparación de modelos NoSQL
+- [🔗 Ver repositorio](#)
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+![Constanza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctapia-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctapia-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ctapia-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-  </td>
-  </tr>
-</table>
+</div>
+
+---
+
+## 🏅 Certificaciones
+
+| Certificación | Institución |
+|---|---|
+| IBM Data Science Professional Certificate | IBM / Coursera |
+| Android Development | Meta / Coursera |
+| Bootstrap para Diseño Web | Universidad Austral |
+
+---
+
+## 💬 Conectemos
+
+Estoy buscando activamente mi primera oportunidad profesional como desarrolladora Full Stack o Backend. Si tienes un proyecto interesante o una posición en tu equipo, me encantaría conversar.
+
+[![LinkedIn](https://img.shields.io/badge/Enviar_mensaje_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/constanza-tapia-orellana)
+[![Portfolio](https://img.shields.io/badge/Ver_mi_Portfolio-7C3AED?style=for-the-badge&logo=github-pages&logoColor=white)](https://ctapiam-dev.github.io)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ctapia-dev&color=7C3AED&style=flat-square&label=Visitas+al+perfil" alt="Profile views"/>
+</div>
