@@ -76,7 +76,7 @@ Actualmente estoy construyendo un **portfolio multi-stack** con proyectos reales
 
 - Aplicación Full Stack orientada a la inclusión educativa
 - Desarrollo del sistema completo: diseño, backend, frontend y documentación
-- [🔗 Ver repositorio](#https://github.com/ctapia-dev/SelfTEAch)
+- [🔗 [Ver repositorio](https://github.com/ctapia-dev/SelfTEAch)](#)
 
 ---
 
@@ -85,7 +85,7 @@ Actualmente estoy construyendo un **portfolio multi-stack** con proyectos reales
 
 - Rol: **Coordinadora de Proyecto & Líder de Documentación**
 - Comunicación en tiempo real entre usuarios y administradores
-- [🔗 Ver repositorio](#https://github.com/dev-sfuentes/ionic-unab-ing-II)
+- [🔗 [Ver repositorio](https://github.com/dev-sfuentes/ionic-unab-ing-II)](#)
 
 ---
 
