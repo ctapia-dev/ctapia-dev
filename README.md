@@ -71,23 +71,12 @@ Actualmente estoy construyendo un **portfolio multi-stack** con proyectos reales
 
 ## 🚀 Proyectos Destacados
 
-### 📦 Stock Inventory Management System
-> Sistema Full Stack con Spring Boot + PostgreSQL · En desarrollo
-
-- JWT Auth con roles: `ADMIN`, `WAREHOUSE`, `SELLER`
-- Alertas de stock bajo en tiempo real con **WebSockets / STOMP**
-- Caché con **Redis** y documentación con **Swagger/OpenAPI**
-- Containerizado con **Docker**
-- [🔗 Ver repositorio](#)
-
----
-
 ### 🎓 SelfTEAch — Proyecto de Título
 > Plataforma educativa inclusiva enfocada en autismo
 
 - Aplicación Full Stack orientada a la inclusión educativa
 - Desarrollo del sistema completo: diseño, backend, frontend y documentación
-- [🔗 Ver repositorio](#)
+- [🔗 Ver repositorio](#https://github.com/ctapia-dev/SelfTEAch)
 
 ---
 
@@ -96,7 +85,7 @@ Actualmente estoy construyendo un **portfolio multi-stack** con proyectos reales
 
 - Rol: **Coordinadora de Proyecto & Líder de Documentación**
 - Comunicación en tiempo real entre usuarios y administradores
-- [🔗 Ver repositorio](#)
+- [🔗 Ver repositorio](#https://github.com/dev-sfuentes/ionic-unab-ing-II)
 
 ---
 
@@ -104,7 +93,6 @@ Actualmente estoy construyendo un **portfolio multi-stack** con proyectos reales
 > Proyecto académico de arquitectura de bases de datos distribuidas
 
 - Implementación y comparación de modelos NoSQL
-- [🔗 Ver repositorio](#)
 
 ---
 
